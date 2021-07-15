@@ -4,7 +4,7 @@ Computes the logistic lasso using coordinate descent on the penalized iterativel
 
 **File Descriptions**:
 
-- `assignment_description.pdf`: Overview of assignment
+- `assignment_overview.pdf`: Overview of assignment
 
 - `fuctions.R`: All the functions needed to fit the logistic lasso model using coordinate descent and predict outputs
 
